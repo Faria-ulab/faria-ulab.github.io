@@ -6,9 +6,9 @@ const projectData = {
         projectName: 'Research Proposal',
         projectTitle: 'Branding Sculpture among Bangladeshi People',
         projectDate: 'Spring 2023',
-        description: 'In this team project, we developed a research proposal focused on the branding of sculpture among the Bangladeshi people. We investigated how artists from Bandarban can sell their art and how sculpture can help preserve culture and tradition while contributing to the economy.',
-        justification: 'From conceptualizing the research topic to writing the complete proposal, this project was instrumental in introducing me to academic writing. It provided a valuable opportunity for teamwork and required us to navigate a steep learning curve to design and apply a research proposal. This was my first full research design, laying the foundation for the qualitative approach I later used in my master\'s thesis.',
-        learnings: 'As my first major academic group project, the learning curve was steep. I learned how to pitch a research topic, conduct a literature review, and understand methodologies, design, and sampling. I also developed foundational skills in reading research papers, citing sources, and referencing, while importantly learning how to collaborate effectively as a team.',
+        description: 'As part of a team, we developed a comprehensive research proposal focusing on the branding of sculptures in Bangladesh. The study investigated strategies for artists in Bandarban to market their work and explored how sculpture could preserve cultural heritage while contributing to the local economy.',
+        justification: 'This project served as my introduction to structured academic writing, requiring us to navigate the complete research process from ideation to final design. It demonstrated my ability to formulate a clear research problem, design a methodology, and apply qualitative research techniques—skills that laid the groundwork for my master\'s thesis.',
+        learnings: 'I learned how to formulate strong research questions, conduct extensive literature reviews, and design methodologies including sampling strategies. Additionally, I gained practical experience in academic citation, reading scholarly articles, and collaborating effectively within a research team.',
         media: [{ type: 'document', src: 'assets/docs/Communication Research Proposal.pdf' }]
     },
     'mask-making': {
@@ -18,9 +18,9 @@ const projectData = {
         projectName: 'Mask Making',
         projectTitle: 'From Chains to Change',
         projectDate: '2025',
-        description: 'We need to create a mask by following the theme of Rational Choice Theory, which was selected for Spring 2024, Curriculum Integration. In our mask we tried to show how an individuals make decisions under oppression, fear, and social restriction. As you can see the mask is split into a darker half representing restriction and a brighter half representing hope, surrounded by chains and barbed wire, with a raised fist at the centre representing resistance. The report documents concept development, symbolic colours and materials use, production and installation, the exhibition, and structured audience feedback.',
-        justification: 'The mask was made based on the theory also, the audience also able to read the message we tried to give them through visual art.',
-        learnings: 'I learned the theory. I learned a bit about visual art. Then I learned to translate social theory into a visual narrative with a partner, making creative decisions as a group also, learned how color can carry a meaning too.',
+        description: 'We created a mixed-media mask installation titled \'From Chains to Change,\' conceptually grounded in Rational Choice Theory. The mask visually represented the decision-making process under societal oppression, featuring a dark half symbolizing restriction, a bright half symbolizing hope, and a raised fist representing resistance. We also exhibited the piece and collected structured audience feedback.',
+        justification: 'This project demonstrated my capacity to translate abstract social theories into tangible, emotionally resonant visual art. By collecting audience feedback during the exhibition, it proved my ability to evaluate whether an intended message effectively reached and resonated with the public.',
+        learnings: 'I learned how to synthesize theoretical knowledge into physical visual storytelling and how to select materials and colors to convey specific meanings. I also gained practical experience in organizing an exhibition and interpreting structured audience feedback.',
         media: [
             { type: 'image', src: 'assets/projects/Section 1 _ Group 11 - _From Chains to Change_ by [Faria Akter (223012075) & Md Tariquzzaman Sikder (223012037)].jpg' },
             { type: 'document', src: 'assets/docs/Mass Communication Mask Making.pdf' }
@@ -33,9 +33,9 @@ const projectData = {
         projectName: 'Blog Writing',
         projectTitle: 'The Dual Lives of Bangladeshi Young Footballers',
         projectDate: '2025',
-        description: 'This was a blog written for Communication Technology course. It profiles two young Bangladeshi footballers whose careers was changed for many reasons even though they played for the national team of Bangladesh Football. Apu Roy, who left football to become a barber, and Shaon, who continued with family backing. The piece draws on direct interviews to ask why football struggles to retain the talent cricket manages to hold.',
-        justification: 'This feature conveys a strong message about why Bangladeshi football struggles to retain talent, grounding its structural critique in two real-life examples.',
-        learnings: 'I learned how to select a compelling story topic, formulate interview questions, and reach out to subjects. I also gained practical experience in conducting and transcribing interviews.',
+        description: 'I wrote a comparative feature profiling two young Bangladeshi footballers whose lives took divergent paths after representing the national team. Built on direct interviews, the piece contrasted a player who abandoned the sport for financial survival with another who continued with family backing.',
+        justification: 'This project highlighted my ability to conduct original interview-based reporting and weave individual human-interest stories into a broader structural critique. It effectively exposed the systemic inequalities and lack of institutional support within Bangladeshi football.',
+        learnings: 'I learned how to identify compelling story angles, formulate interview questions, and conduct empathetic interviews. I also developed my skills in transcription, narrative structuring, and highlighting structural issues through personal storytelling.',
         media: [
             { type: 'document', src: 'assets/docs/Communication_Technology_Feature.pdf' },
             { type: 'document', src: 'assets/docs/The_Dual_Lives_Feature.pdf' }
@@ -48,9 +48,9 @@ const projectData = {
         projectName: 'Podcast',
         projectTitle: 'Why Bangladeshi film industry doesn’t make science fiction movies?',
         projectDate: 'Summer 2023',
-        description: 'We produced a podcast episode for \'Cine Cast\' hosted by me, featuring guest Mahbubul Ontor (former CEO of CinemaScope). We discussed why the Bangladeshi film industry doesn\'t make science fiction movies, touching on budget constraints, directorial imagination gaps, and the country\'s untapped sci-fi literature.',
-        justification: 'Science fiction is one of the most commercially successful genres worldwide, yet Bangladeshi audiences still depend on foreign productions. This imbalance limits the growth and diversification of the local film industry. The episode addressed formulaic storytelling, high-concept ideas, literary adaptation, and the need for international co-production.',
-        learnings: 'I gained valuable experience as a podcast host, learning how to ask engaging questions and sustain a conversation. The project also provided deep insights into the structural reasons behind the lack of sci-fi films in Bangladesh.',
+        description: 'I produced and hosted an episode of the \'Cine Cast\' podcast featuring Mahbubul Ontor, the former CEO of CinemaScope. The discussion critically examined the Bangladeshi film industry\'s hesitance to produce science fiction movies, exploring budget constraints, directorial imagination gaps, and untapped literary resources.',
+        justification: 'This project proved my ability to execute an engaging audio format to discuss industry-level challenges. By questioning the reliance on foreign sci-fi productions, it provided actionable insights into how local cinema could overcome financial barriers through high-concept ideas and literary adaptations.',
+        learnings: 'I learned the technical and editorial processes of podcast production, from researching discussion points to steering an unscripted conversation. I also gained confidence as a host, learning how to ask probing questions that elicit detailed, analytical responses.',
         media: [
             { type: 'audio', src: 'assets/projects/Podcast-Advance_English.mp3' },
             { type: 'document', src: 'assets/docs/Podcast_Script.pdf' }
@@ -63,9 +63,9 @@ const projectData = {
         projectName: 'Creative Writing (Short Story)',
         projectTitle: 'Childhood',
         projectDate: 'Fall 2023',
-        description: 'This is a reflection on autobiographical writing. The story captures the small details of community and a child\'s attachment to a pet, illustrating how a real memory can be transformed into literature through drafting and shared editing.',
-        justification: 'We were tasked with writing a short story based on personal experiences or fiction, while maintaining the core essence of the genre. We chose to adapt my teammate\'s childhood memory, giving it the rhythm and structure of a literary short story.',
-        learnings: 'I learned how to turn a real memory into a compelling literary narrative by shaping the plot. Working with a co-author also gave me practice in revising across multiple drafts and collaboratively refining a theme.',
+        description: 'I co-authored an autobiographical short story that captured the intimate details of community life and a child\'s attachment to a pet. The narrative transformed a real childhood memory into a structured literary piece.',
+        justification: 'This project demonstrated my versatility in creative writing, showing that I can step away from journalistic reporting to produce evocative, narrative-driven literature that adheres to the stylistic conventions of a short story.',
+        learnings: 'I learned how to adapt real-life memories into structured literary narratives by deliberately shaping plot and pacing. Working with a co-author also provided valuable experience in collaborative drafting and thematic refinement.',
         media: [{ type: 'document', src: 'assets/docs/Creative_Short_Story_Childhood.pdf' }]
     },
     'trashion-show': {
@@ -75,9 +75,9 @@ const projectData = {
         projectName: 'Trashion Show',
         projectTitle: 'Individual Report — Upcycled "Jungle" Trashion Garment',
         projectDate: 'December 2023',
-        description: 'An individual report for the Trashion Show, which was based on the CI theme \'Eco-System Restoration\'. The report covers the concept, production, and exhibition, as well as structured feedback from five interviewees regarding their thoughts on the show and the individual performances.',
-        justification: 'Our ecosystem is threatened, and we wanted to reinforce this conversation through visual art. Working independently, I designed and built a wearable piece under strict material and time constraints, and then established an audience-feedback process to verify if the intended message was successfully conveyed.',
-        learnings: 'I learned how to create a compelling visual piece using limited resources and gained experience in coordinating a small production team.',
+        description: 'I produced a comprehensive individual report for a Trashion Show centered around the theme of \'Eco-System Restoration.\' The report documented the entire process, from concept development and the creation of a wearable art piece using recycled materials to the final exhibition and audience feedback.',
+        justification: 'This project showcased my ability to independently manage a creative project under strict material and time constraints. By establishing a feedback mechanism, it demonstrated my commitment to measuring the actual impact of communication rather than merely assuming its success.',
+        learnings: 'I learned how to manage limited resources effectively and coordinate small-scale creative productions. I also gained insight into how physical, wearable art can be leveraged to reinforce critical conversations about environmental sustainability.',
         media: [
             { type: 'youtube', src: 'fkzN1_4GRcE' },
             { type: 'image', src: ['assets/projects/Trashion.jpg', 'assets/projects/Trashion 3.jpg', 'assets/projects/Trashion 4.jpg'] },
@@ -92,9 +92,9 @@ const projectData = {
         projectName: 'Video Art',
         projectTitle: 'Table of Strain',
         projectDate: '2025',
-        description: 'An individual video-art piece based on the CI theme of Rational Choice Theory. I attempted to portray societal conflicts using paper and shifting light colors to visually express complex situations.',
-        justification: 'I chose to convey an abstract theory through mood and imagery rather than direct explanation. I wanted to fully express my creativity while maintaining relevance to the given topic. I managed the entire production independently, from conceptualization to filming and editing.',
-        learnings: 'I learned how to plan and shoot a video-art piece independently, utilizing repetition and confined framing to tell a story. This project taught me how to render a theory into an emotional experience that the viewer feels rather than simply reads.',
+        description: 'I directed, filmed, and edited an individual video-art piece exploring Rational Choice Theory. The video utilized confined framing, repetitive imagery of paper, and shifting light colors to visually articulate societal conflicts and complex decision-making processes.',
+        justification: 'This project highlighted my ability to communicate abstract academic theories through mood and visual aesthetics rather than direct exposition. It proved my self-sufficiency in handling all aspects of video production, from initial conceptualization to post-production.',
+        learnings: 'I learned how to plan and execute a video-art project independently, mastering the use of lighting and framing to evoke specific emotional responses. I also discovered how to render theoretical concepts into visceral experiences for the viewer.',
         media: [{ type: 'document', src: 'assets/docs/Commuincat Convergance I Reflection_Paper_Table_of_Strain.pdf' }]
     },
     'project-plan': {
@@ -104,9 +104,9 @@ const projectData = {
         projectName: 'Project Plan',
         projectTitle: 'Reducing Childhood Malnutrition in Rural Bangladesh — Communication Strategy',
         projectDate: '2025',
-        description: 'A full communication-for-development strategy addressing childhood malnutrition in rural Bangladesh, built on problem-tree analysis and structured using the Logical Framework approach, with target behaviours, multi-channel activities, and monitoring indicators.',
-        justification: 'The plan outlines a comprehensive development-communication strategy, bridging the gap from root-cause diagnosis to measurable outcomes.',
-        learnings: 'I learned to build a strategy starting from problem-tree analysis to a complete Log Frame with measurable indicators, successfully aligning multiple communication channels behind a single behavior-change goal.',
+        description: 'I developed a comprehensive communication-for-development (C4D) strategy aimed at addressing childhood malnutrition in rural Bangladesh. The strategy utilized a problem-tree analysis and was structured around a Logical Framework detailing target behaviors, multi-channel activities, and monitoring indicators.',
+        justification: 'This project demonstrated my proficiency in designing evidence-based, full-cycle development communication strategies. It proved my ability to connect root-cause diagnoses to measurable, actionable outcomes within a structured framework.',
+        learnings: 'I learned how to construct a robust strategy using problem-tree analysis and Logical Frameworks. I also gained experience in aligning multiple communication channels behind a single, measurable behavior-change objective.',
         media: [{ type: 'document', src: 'assets/docs/C4D_Planning_and_Process.pdf' }]
     },
     'participatory-research': {
@@ -116,9 +116,9 @@ const projectData = {
         projectName: 'Research Project',
         projectTitle: 'Water Crisis and Health Problems in a Marma Community of Bandarban',
         projectDate: 'Spring 2026',
-        description: 'A field-based participatory research study with the Marma Indigenous community of Amtoli Marma Para, Bandarban, examining coping strategies for seasonal water shortage using Farmers Field School sessions, transect walks, and resource mapping.',
-        justification: 'This project involved authentic participatory fieldwork with an Indigenous community. It prioritized building trust, obtaining oral informed consent in the Marma language, and co-producing an action plan with residents rather than imposing one from the outside.',
-        learnings: 'I learned how to design and execute participatory fieldwork with an Indigenous community, gaining hands-on experience in facilitating Farmers Field School sessions, transect walks, and resource mapping.',
+        description: 'I conducted a field-based participatory research study with the Marma Indigenous community in Bandarban to examine their coping strategies for seasonal water shortages. The methodology included facilitating Farmers Field School sessions, conducting transect walks, and executing resource mapping.',
+        justification: 'This project showcased my capacity to conduct ethical, culturally sensitive fieldwork. By prioritizing trust-building, obtaining oral informed consent in the native language, and co-producing an action plan, it demonstrated a commitment to authentic participatory methods.',
+        learnings: 'I learned how to design and execute participatory fieldwork alongside Indigenous communities. I developed hands-on facilitation skills for community-led research tools, including transect walks and collaborative resource mapping.',
         media: [{ type: 'document', src: 'assets/docs/Participatory_Research_Report.pdf' }]
     },
     'ict-development': {
@@ -152,9 +152,9 @@ const projectData = {
         projectName: 'Emergency com.',
         projectTitle: 'Dengue Outbreak Emergency Communication Plan',
         projectDate: 'Fall 2025',
-        description: 'A comprehensive Emergency Communication Plan for a dengue outbreak in Bangladesh, grounded in RCCE principles, with audience segmentation, a colour-coded messaging framework, a "Truth Sandwich" rumour-correction strategy, and multi-channel dissemination.',
-        justification: 'The plan translates technical public-health guidance into clear messaging targeted at specific audiences during an outbreak. Its focus on message framing and public trust connects directly to my thesis on health information-seeking behavior.',
-        learnings: 'I learned to apply RCCE principles across a complete outbreak cycle, frame messages for targeted audiences, correct rumors, and write accessible Bangla content for audiences with low literacy.',
+        description: 'I designed a comprehensive Emergency Communication Plan for a simulated dengue outbreak in Bangladesh. The plan was grounded in Risk Communication and Community Engagement (RCCE) principles and featured audience segmentation, a color-coded messaging framework, and a \'Truth Sandwich\' rumor-correction strategy.',
+        justification: 'This project proved my ability to translate complex public-health directives into clear, actionable, and audience-specific messaging. It demonstrated a strong grasp of crisis management, message framing, and trust-building strategies during emergencies.',
+        learnings: 'I learned how to apply RCCE principles across the entire lifecycle of an outbreak. I developed practical skills in audience segmentation, combating misinformation through structured rumor correction, and writing accessible content for low-literacy demographics.',
         media: [{ type: 'document', src: 'assets/docs/Emergency_Communication_Report.pdf' }]
     },
     'edutainment': {
@@ -164,9 +164,9 @@ const projectData = {
         projectName: 'Edutainment',
         projectTitle: 'Rongin Bangladesh — Edutainment TV Program Concept',
         projectDate: '2025',
-        description: 'A full concept design for \'Rongin Bangladesh,\' a TV edutainment program addressing the marginalization of Bangladesh\'s ethnic minority communities. It features a four-segment episode structure and a detailed sample episode focusing on the Garo community.',
-        justification: 'I designed an original TV format that translates development-communication goals into a concrete, producible structure, adding a broadcast dimension to my predominantly print-based portfolio.',
-        learnings: 'The most significant takeaway from this project was learning how to develop a complete, structured broadcast format driven by a specific development communication objective.',
+        description: 'I developed a complete concept design for \'Rongin Bangladesh,\' a proposed TV edutainment program focused on the marginalization of ethnic minority communities. The project included a four-segment episode structure and a fully fleshed-out sample episode highlighting the Garo community.',
+        justification: 'This project showcased my ability to translate development-communication objectives into a concrete, producible broadcast format. It demonstrated my versatility in expanding beyond print media into structured television programming.',
+        learnings: 'I learned how to conceptualize and structure a complete broadcast format driven by specific social and developmental objectives, mastering the balance between educational content and audience entertainment.',
         media: [
             { type: 'youtube', src: 'wIUJCnW1y6w' },
             { type: 'document', src: 'assets/docs/Reflection_Paper_Rongin_Bangladesh.pdf' }
@@ -179,9 +179,9 @@ const projectData = {
         projectName: 'Advertising',
         projectTitle: 'Initial Script — MACES Study Abroad Campaign',
         projectDate: '2025',
-        description: 'A five-scene narrative ad script following three young women through inflation, political disengagement, and a disrupted date, converging on a "study abroad" resolution promoted by MACES consultancy.',
-        justification: 'The script embeds socio-political commentary within a commercial, character-driven narrative tailored to a client brief. It required me to carefully balance promotional goals with honest social observation.',
-        learnings: 'This project expanded my understanding of scriptwriting and commercial storytelling. I learned how to translate real-world social observations into a structured narrative with a clear beginning, progression, emotional climax, and resolution.',
+        description: 'I wrote a five-scene narrative ad script for a MACES consultancy campaign. The story followed three young women navigating inflation and political disengagement, ultimately converging on the decision to pursue study-abroad opportunities.',
+        justification: 'This project demonstrated my capability to embed socio-political commentary within a commercial, character-driven narrative. It proved my ability to effectively balance a client\'s promotional objectives with authentic, relatable social observations.',
+        learnings: 'I learned how to translate real-world social frustrations into a structured commercial narrative with a clear emotional arc and resolution. I also gained insight into balancing brand messaging with compelling storytelling.',
         media: [
             { type: 'youtube', src: 'OCCs5B-g5Ic' },
             { type: 'document', src: 'assets/docs/Reflection_Paper_Narrative_Advertisement.pdf' }
