@@ -6,7 +6,7 @@ const projectData = {
         projectName: 'Research Proposal',
         projectTitle: 'Branding Sculpture among Bangladeshi People',
         projectDate: 'Spring 2023',
-        description: 'As part of a team, we developed a comprehensive research proposal focusing on the branding of sculptures in Bangladesh. The study investigated strategies for artists in Bandarban to market their work and explored how sculpture could preserve cultural heritage while contributing to the local economy.',
+        description: 'As a team, we developed a comprehensive research proposal focusing on the branding of sculptures in Bangladesh. The proposed study aimed to investigate strategies for artists in Bandarban to market their work and explore how sculpture could preserve cultural heritage while contributing to the local economy.',
         justification: 'This project served as my introduction to structured academic writing, requiring us to navigate the complete research process from ideation to final design. It demonstrated my ability to formulate a clear research problem, design a methodology, and apply qualitative research techniques—skills that laid the groundwork for my master\'s thesis.',
         learnings: 'I learned how to formulate strong research questions, conduct extensive literature reviews, and design methodologies including sampling strategies. Additionally, I gained practical experience in academic citation, reading scholarly articles, and collaborating effectively within a research team.',
         media: [{ type: 'document', src: 'assets/docs/Communication Research Proposal.pdf' }]
