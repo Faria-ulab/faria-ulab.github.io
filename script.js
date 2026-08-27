@@ -20,7 +20,7 @@ const projectData = {
         projectDate: '2025',
         description: 'We created a mixed-media mask installation titled \'From Chains to Change,\' conceptually grounded in Rational Choice Theory. The mask visually represented the decision-making process under societal oppression, featuring a dark half symbolizing restriction, a bright half symbolizing hope, and a raised fist representing resistance. We also exhibited the piece and collected structured audience feedback.',
         justification: 'This project demonstrated my capacity to translate abstract social theories into tangible, emotionally resonant visual art. By collecting audience feedback during the exhibition, it proved my ability to evaluate whether an intended message effectively reached and resonated with the public.',
-        learnings: 'I learned how to synthesize theoretical knowledge into physical visual storytelling and how to select materials and colors to convey specific meanings. I also gained practical experience in organizing an exhibition and interpreting structured audience feedback.',
+        learnings: 'I learned how to synthesize theoretical knowledge into physical visual storytelling and how to select materials and colors to convey specific meanings. I also gained practical experience of presenting in an exhibition and interpreting structured audience feedback.',
         media: [
             { type: 'image', src: 'assets/projects/Section 1 _ Group 11 - _From Chains to Change_ by [Faria Akter (223012075) & Md Tariquzzaman Sikder (223012037)].jpg' },
             { type: 'document', src: 'assets/docs/Mass Communication Mask Making.pdf' }
