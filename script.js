@@ -6,9 +6,9 @@ const projectData = {
         projectName: 'Research Proposal',
         projectTitle: 'Branding Sculpture among Bangladeshi People',
         projectDate: 'Spring 2023',
-        description: 'In this project we worked as a team to write a research proposal. In my team, we worked on branding of sculpture among Bangladeshi people, where tried to investigate about how the artists from Bandarban can sell their arts and also, how can this sculpture help to discover culture, tradition and at the same time help our economy financially.',
-        justification: 'From research topic ideation to writing the complete proposal, this project has been instrumental to my exposure to academic writing. Also, it provides an opportunity to work with a group and helped me to learn about teamwork. We as a team had to go through a learning curve where we need to learn and how to do a research proposal and apply it. It was my first full research design, and the qualitative approach I used in my master\'s thesis grew out of it.',
-        learnings: 'This is one of the first major group projects as well as major academic work. The learning curve was high. I had to learn everything. How to pitch a research topic to what makes a topic a good research topic, why the literature review, what is methodology, design, sampling, name any research term. I learned how to read a research paper, how to cite a paper, how to do referencing and so forth. Most importantly I learned how to do teamwork properly.',
+        description: 'In this team project, we developed a research proposal focused on the branding of sculpture among the Bangladeshi people. We investigated how artists from Bandarban can sell their art and how sculpture can help preserve culture and tradition while contributing to the economy.',
+        justification: 'From conceptualizing the research topic to writing the complete proposal, this project was instrumental in introducing me to academic writing. It provided a valuable opportunity for teamwork and required us to navigate a steep learning curve to design and apply a research proposal. This was my first full research design, laying the foundation for the qualitative approach I later used in my master\'s thesis.',
+        learnings: 'As my first major academic group project, the learning curve was steep. I learned how to pitch a research topic, conduct a literature review, and understand methodologies, design, and sampling. I also developed foundational skills in reading research papers, citing sources, and referencing, while importantly learning how to collaborate effectively as a team.',
         media: [{ type: 'document', src: 'assets/docs/Communication Research Proposal.pdf' }]
     },
     'mask-making': {
@@ -34,8 +34,8 @@ const projectData = {
         projectTitle: 'The Dual Lives of Bangladeshi Young Footballers',
         projectDate: '2025',
         description: 'This was a blog written for Communication Technology course. It profiles two young Bangladeshi footballers whose careers was changed for many reasons even though they played for the national team of Bangladesh Football. Apu Roy, who left football to become a barber, and Shaon, who continued with family backing. The piece draws on direct interviews to ask why football struggles to retain the talent cricket manages to hold.',
-        justification: 'This blog was originally written with a very strong message of why football struggles to retain talent with two real life examples.',
-        learnings: 'Learned how to choose a story topic, how to make questions and reach out to the person whom I want to interview and also learned how to take an interview properly and transcribe them.',
+        justification: 'This feature conveys a strong message about why Bangladeshi football struggles to retain talent, grounding its structural critique in two real-life examples.',
+        learnings: 'I learned how to select a compelling story topic, formulate interview questions, and reach out to subjects. I also gained practical experience in conducting and transcribing interviews.',
         media: [
             { type: 'document', src: 'assets/docs/Communication_Technology_Feature.pdf' },
             { type: 'document', src: 'assets/docs/The_Dual_Lives_Feature.pdf' }
@@ -48,9 +48,9 @@ const projectData = {
         projectName: 'Podcast',
         projectTitle: 'Why Bangladeshi film industry doesn’t make science fiction movies?',
         projectDate: 'Summer 2023',
-        description: 'We made a podcast show named it “Cine Cast” which was hosted by me and the guest was Mahbubul Ontor (former CEO of CinemaScope). We talked about Why doesn\'t the Bangladeshi film industry make science fiction movies? From the conversation we discuss about budget narratives, directorial imagination gaps, and Bangladesh\'s untapped written sci-fi literature.',
-        justification: 'Science fiction is one of the most commercially successful genres worldwide, yet Bangladeshi audiences still depend on foreign productions. That imbalance matters for how far the local film industry can grow and diversify. The episode talked about formulaic storytelling, high-concept ideas, literary adaptation, and international co-production.',
-        learnings: 'Got experience as a host, also learned about how to ask questions and continue a conversation. Also, get some ideas about why scifi related movies are not made in Bangladesh.',
+        description: 'We produced a podcast episode for \'Cine Cast\' hosted by me, featuring guest Mahbubul Ontor (former CEO of CinemaScope). We discussed why the Bangladeshi film industry doesn\'t make science fiction movies, touching on budget constraints, directorial imagination gaps, and the country\'s untapped sci-fi literature.',
+        justification: 'Science fiction is one of the most commercially successful genres worldwide, yet Bangladeshi audiences still depend on foreign productions. This imbalance limits the growth and diversification of the local film industry. The episode addressed formulaic storytelling, high-concept ideas, literary adaptation, and the need for international co-production.',
+        learnings: 'I gained valuable experience as a podcast host, learning how to ask engaging questions and sustain a conversation. The project also provided deep insights into the structural reasons behind the lack of sci-fi films in Bangladesh.',
         media: [
             { type: 'audio', src: 'assets/projects/Podcast-Advance_English.mp3' },
             { type: 'document', src: 'assets/docs/Podcast_Script.pdf' }
@@ -63,9 +63,9 @@ const projectData = {
         projectName: 'Creative Writing (Short Story)',
         projectTitle: 'Childhood',
         projectDate: 'Fall 2023',
-        description: 'It is a reflection of an autobiographical writing. The story holds on to small details of community and a child\'s attachment to a pet, and it shows how a real memory can become literature through drafting and shared editing.',
-        justification: 'We was told to write about a short story which can be related to your own story, or it can be a fiction where must have the essence of short story. So, we tried to write my teammates childhood story with the rhythm of short story.',
-        learnings: 'I learned to turn a real memory into a literary narrative, shaping the plot. Working with a co-author also gave me practice in revising across several drafts and refining a theme together.',
+        description: 'This is a reflection on autobiographical writing. The story captures the small details of community and a child\'s attachment to a pet, illustrating how a real memory can be transformed into literature through drafting and shared editing.',
+        justification: 'We were tasked with writing a short story based on personal experiences or fiction, while maintaining the core essence of the genre. We chose to adapt my teammate\'s childhood memory, giving it the rhythm and structure of a literary short story.',
+        learnings: 'I learned how to turn a real memory into a compelling literary narrative by shaping the plot. Working with a co-author also gave me practice in revising across multiple drafts and collaboratively refining a theme.',
         media: [{ type: 'document', src: 'assets/docs/Creative_Short_Story_Childhood.pdf' }]
     },
     'trashion-show': {
@@ -75,9 +75,9 @@ const projectData = {
         projectName: 'Trashion Show',
         projectTitle: 'Individual Report — Upcycled "Jungle" Trashion Garment',
         projectDate: 'December 2023',
-        description: 'An individual report for Trashion Show, which was held based on the CI theme "Eco-System Restoration".  The report covers concept, production, exhibition, and structured feedback from five interviewees about their thoughts on the show and individuals perdormance.',
-        justification: 'Our eco-system is threatened. We wanted to reinforce the conversation through visual art. Working alone, I designed and built a wearable piece under real limits on materials and time, then set up an audience-feedback process to test whether the message got across rather than assuming it did.',
-        learnings: 'I learned to make a creative piece with limited resources, coordinate a small production team.',
+        description: 'An individual report for the Trashion Show, which was based on the CI theme \'Eco-System Restoration\'. The report covers the concept, production, and exhibition, as well as structured feedback from five interviewees regarding their thoughts on the show and the individual performances.',
+        justification: 'Our ecosystem is threatened, and we wanted to reinforce this conversation through visual art. Working independently, I designed and built a wearable piece under strict material and time constraints, and then established an audience-feedback process to verify if the intended message was successfully conveyed.',
+        learnings: 'I learned how to create a compelling visual piece using limited resources and gained experience in coordinating a small production team.',
         media: [
             { type: 'youtube', src: 'fkzN1_4GRcE' },
             { type: 'image', src: ['assets/projects/Trashion.jpg', 'assets/projects/Trashion 3.jpg', 'assets/projects/Trashion 4.jpg'] },
@@ -92,9 +92,9 @@ const projectData = {
         projectName: 'Video Art',
         projectTitle: 'Table of Strain',
         projectDate: '2025',
-        description: 'An individual video-art piece for the CI theme Rational Choice Theory. Where I try to show the conflicts of society through few papers and by changing the color of the light, which helps to express the situation.',
-        justification: 'I chose to convey an abstract theory through mood and image rather than explanation. I also wanted to let my creativity express fully with having the relevance with the topic given. I handled the whole piece myself, from concept to filming to editing.',
-        learnings: 'I learned to plan and shoot a video-art piece on my own, using repetition and a confined frame to tell the story, and to render a theory as something the viewer feels rather than reads.',
+        description: 'An individual video-art piece based on the CI theme of Rational Choice Theory. I attempted to portray societal conflicts using paper and shifting light colors to visually express complex situations.',
+        justification: 'I chose to convey an abstract theory through mood and imagery rather than direct explanation. I wanted to fully express my creativity while maintaining relevance to the given topic. I managed the entire production independently, from conceptualization to filming and editing.',
+        learnings: 'I learned how to plan and shoot a video-art piece independently, utilizing repetition and confined framing to tell a story. This project taught me how to render a theory into an emotional experience that the viewer feels rather than simply reads.',
         media: [{ type: 'document', src: 'assets/docs/Commuincat Convergance I Reflection_Paper_Table_of_Strain.pdf' }]
     },
     'project-plan': {
@@ -105,8 +105,8 @@ const projectData = {
         projectTitle: 'Reducing Childhood Malnutrition in Rural Bangladesh — Communication Strategy',
         projectDate: '2025',
         description: 'A full communication-for-development strategy addressing childhood malnutrition in rural Bangladesh, built on problem-tree analysis and structured using the Logical Framework approach, with target behaviours, multi-channel activities, and monitoring indicators.',
-        justification: 'The plan runs a full development-communication strategy from root-cause diagnosis to measurable outcomes.',
-        learnings: 'I learned to build a strategy from problem-tree analysis up to a full Log Frame with measurable indicators, and to line up several communication channels behind one behaviour-change goal.',
+        justification: 'The plan outlines a comprehensive development-communication strategy, bridging the gap from root-cause diagnosis to measurable outcomes.',
+        learnings: 'I learned to build a strategy starting from problem-tree analysis to a complete Log Frame with measurable indicators, successfully aligning multiple communication channels behind a single behavior-change goal.',
         media: [{ type: 'document', src: 'assets/docs/C4D_Planning_and_Process.pdf' }]
     },
     'participatory-research': {
@@ -117,8 +117,8 @@ const projectData = {
         projectTitle: 'Water Crisis and Health Problems in a Marma Community of Bandarban',
         projectDate: 'Spring 2026',
         description: 'A field-based participatory research study with the Marma Indigenous community of Amtoli Marma Para, Bandarban, examining coping strategies for seasonal water shortage using Farmers Field School sessions, transect walks, and resource mapping.',
-        justification: 'This was real participatory fieldwork with an Indigenous community: building trust first, taking oral informed consent in the Marma language, and co-producing an action plan with residents instead of imposing one.',
-        learnings: 'I learned to design participatory fieldwork with an Indigenous community and to facilitate Farmers Field School sessions, transect walks, and resource mapping.',
+        justification: 'This project involved authentic participatory fieldwork with an Indigenous community. It prioritized building trust, obtaining oral informed consent in the Marma language, and co-producing an action plan with residents rather than imposing one from the outside.',
+        learnings: 'I learned how to design and execute participatory fieldwork with an Indigenous community, gaining hands-on experience in facilitating Farmers Field School sessions, transect walks, and resource mapping.',
         media: [{ type: 'document', src: 'assets/docs/Participatory_Research_Report.pdf' }]
     },
     'ict-development': {
@@ -153,8 +153,8 @@ const projectData = {
         projectTitle: 'Dengue Outbreak Emergency Communication Plan',
         projectDate: 'Fall 2025',
         description: 'A comprehensive Emergency Communication Plan for a dengue outbreak in Bangladesh, grounded in RCCE principles, with audience segmentation, a colour-coded messaging framework, a "Truth Sandwich" rumour-correction strategy, and multi-channel dissemination.',
-        justification: 'The plan turns technical public-health guidance into clear messaging aimed at specific audiences during an outbreak. Its work on framing and trust connects directly to my thesis on health information-seeking.',
-        learnings: 'I learned to apply RCCE principles across a full outbreak cycle, to frame messages for specific audiences and correct rumours, and to write clear Bangla for readers with low literacy.',
+        justification: 'The plan translates technical public-health guidance into clear messaging targeted at specific audiences during an outbreak. Its focus on message framing and public trust connects directly to my thesis on health information-seeking behavior.',
+        learnings: 'I learned to apply RCCE principles across a complete outbreak cycle, frame messages for targeted audiences, correct rumors, and write accessible Bangla content for audiences with low literacy.',
         media: [{ type: 'document', src: 'assets/docs/Emergency_Communication_Report.pdf' }]
     },
     'edutainment': {
@@ -164,9 +164,9 @@ const projectData = {
         projectName: 'Edutainment',
         projectTitle: 'Rongin Bangladesh — Edutainment TV Program Concept',
         projectDate: '2025',
-        description: 'A full concept design for "Rongin Bangladesh," a TV edutainment program addressing the marginalization of Bangladesh\'s ethnic minority communities, with a four-segment episode structure and a worked sample episode on the Garo community.',
-        justification: 'I designed an original TV format that turns development-communication goals into a concrete, producible structure. It adds a broadcast dimension to work I have mostly done in print.',
-        learnings: 'The biggest learning outcome from this project was that I learned how to develop a complete broadcast format from a development communication objective.',
+        description: 'A full concept design for \'Rongin Bangladesh,\' a TV edutainment program addressing the marginalization of Bangladesh\'s ethnic minority communities. It features a four-segment episode structure and a detailed sample episode focusing on the Garo community.',
+        justification: 'I designed an original TV format that translates development-communication goals into a concrete, producible structure, adding a broadcast dimension to my predominantly print-based portfolio.',
+        learnings: 'The most significant takeaway from this project was learning how to develop a complete, structured broadcast format driven by a specific development communication objective.',
         media: [
             { type: 'youtube', src: 'wIUJCnW1y6w' },
             { type: 'document', src: 'assets/docs/Reflection_Paper_Rongin_Bangladesh.pdf' }
@@ -180,8 +180,8 @@ const projectData = {
         projectTitle: 'Initial Script — MACES Study Abroad Campaign',
         projectDate: '2025',
         description: 'A five-scene narrative ad script following three young women through inflation, political disengagement, and a disrupted date, converging on a "study abroad" resolution promoted by MACES consultancy.',
-        justification: 'The script carries socio-political commentary inside a commercial, character-driven narrative written to a client brief. I had to keep the promotional goal and honest social observation in balance.',
-        learnings: 'This project expanded my understanding of scriptwriting and commercial storytelling. I learned how to take real social observations and turn them into a structured narrative that has a beginning, progression, emotional climax and resolution.',
+        justification: 'The script embeds socio-political commentary within a commercial, character-driven narrative tailored to a client brief. It required me to carefully balance promotional goals with honest social observation.',
+        learnings: 'This project expanded my understanding of scriptwriting and commercial storytelling. I learned how to translate real-world social observations into a structured narrative with a clear beginning, progression, emotional climax, and resolution.',
         media: [
             { type: 'youtube', src: 'OCCs5B-g5Ic' },
             { type: 'document', src: 'assets/docs/Reflection_Paper_Narrative_Advertisement.pdf' }
